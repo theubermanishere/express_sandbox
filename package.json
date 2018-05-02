@@ -1,0 +1,22 @@
+{
+  "name": "Sandbox",
+  "version": "1.0.0",
+  "description": "Express sandbox",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/theubermanishere/express_sandbox.git"
+  },
+  "author": "theubermanishere",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/theubermanishere/express_sandbox/issues"
+  },
+  "homepage": "https://github.com/theubermanishere/express_sandbox#readme",
+  "dependencies": {
+    "express": "^4.16.3"
+  }
+}
